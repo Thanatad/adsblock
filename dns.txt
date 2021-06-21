@@ -2,7 +2,7 @@
 ||img.manga168.com/images/*.gif^
 ||i.imgur.com/XSwwkd3.gif^
 ||i.imgur.com/mPWWyki.gif^
-||i.imgur.com/NEUlLWR.gif^
+||i.imgur.com/NEUlLWR.gif
 ||i.imgur.com/mPWWyki.gif^
 ||i.imgur.com/NEUlLWR.gif^
 ||1.bp.blogspot.com/-bYAuG_Jfh54/YKjksH67III/AAAAAAAAb_U/ffTsh_fiayokxAl99iZJ-qlYC2_txOj_QCLcBGAsYHQ/s0/god728x200.gif^
