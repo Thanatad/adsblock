@@ -1,5 +1,5 @@
-||humnoi.xyz/images/*.gif
-||img.manga168.com/images/*.gif
+||humnoi.xyz/images/*.gif^
+||img.manga168.com/images/*.gif^
 ||i.imgur.com/XSwwkd3.gif
 ||i.imgur.com/mPWWyki.gif
 ||i.imgur.com/NEUlLWR.gif
